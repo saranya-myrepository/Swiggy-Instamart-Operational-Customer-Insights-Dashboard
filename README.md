@@ -185,6 +185,9 @@ A dedicated Measures Table was created to organize DAX calculations and improve 
 * Trend Analysis
 * Comparative Analysis
 
+### Dashboard Preview 
+
+<img width="933" height="521" alt="Screenshot 2026-06-10 231637" src="https://github.com/user-attachments/assets/e92f5735-ce6a-47fd-8a4b-e372c0a0406b" />
 
 
 
