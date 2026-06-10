@@ -186,9 +186,6 @@ A dedicated Measures Table was created to organize DAX calculations and improve 
 * Comparative Analysis
 
 
-##  Dashboard Preview
-
-<img width="900" alt="Swiggy Instamart Dashboard" src=""C:\Users\ELCOT\Pictures\Screenshots\Screenshot 2026-06-10 231637.png"">
 
 
 ##  Project Outcome
