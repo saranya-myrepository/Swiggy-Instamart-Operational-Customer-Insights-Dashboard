@@ -195,4 +195,5 @@ A dedicated Measures Table was created to organize DAX calculations and improve 
 
 The dashboard provides a unified view of sales performance, customer behavior, delivery efficiency, and inventory management. By transforming raw operational data into meaningful insights, the solution supports data-driven decision-making and demonstrates practical applications of Business Intelligence and Data Analytics in a quick-commerce environment.
 
+ Dataset Note: This dashboard uses a synthetic/practice dataset created for portfolio purposes. The observed fraud rates, amounts, customer counts, and patterns are analytical findings from the dataset and should not be interpreted as real-world fraud statistics or confidential financial data.
 
